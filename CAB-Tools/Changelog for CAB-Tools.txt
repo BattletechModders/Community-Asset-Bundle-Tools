@@ -1,0 +1,8 @@
+Changelog for CAB-Tools
+
+-----------------------------------------------------
+
+
+1.0
+
+Initial Creation

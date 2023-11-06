@@ -1,0 +1,4 @@
+Attributions for CAB-Tools
+
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that provided the tools and documentation).
+
